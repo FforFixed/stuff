@@ -145,4 +145,5 @@ case $CHOICE in
 esac
 whiptail --msgbox "$result" 20 78
 done
-exit
+exit 
+}
